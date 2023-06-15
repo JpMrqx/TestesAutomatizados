@@ -1,9 +1,0 @@
-version: 0.0.1
-
-levain.config.noBaseDir: true
-
-dependencies:
-  # Front-end
-
-  # Back-end
-  - jdk-17-default
